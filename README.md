@@ -1,5 +1,5 @@
 # 🌐 NETWORK MONITORING DASHBOARD
-
+![Demo](photos/image3.png)
 ## Professional Documentation
 
 📋 **TABLE OF CONTENTS**
@@ -222,6 +222,7 @@ sudo python main.py
 - Filters respond to user input
 
 ---
+![Demo](photos/image1.png)
 
 ## 📖 USER MANUAL
 
@@ -513,3 +514,4 @@ For technical support, feature requests, or bug reports:
 - Issue Tracker: Submit problems via GitHub Issues
 - Community Forum: Discussions and user guides
 ---
+![Demo](photos/image2.png)
